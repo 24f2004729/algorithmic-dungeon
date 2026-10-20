@@ -1,9 +1,14 @@
-# Algorithmic Dungeon: Escape the Labyrinth
+﻿# Algorithmic Dungeon: Escape the Labyrinth
 
 > **Academic Project:** Design and Analysis of Algorithms (DAA) — Formative Assessment 2 (FA2)<br/>
 > **Institution:** Pimpri Chinchwad College of Engineering (PCCOE), Pune<br/>
 > **Department:** Department of Information Technology<br/>
-> **Platform:** Android (Flutter & Pure Dart)
+> **Platform:** Android (Flutter & Pure Dart) & Web
+
+### 🌐 Live Deployments & Links
+- ⚡ **Vercel Production Deployment**: [https://algorithmic-dungeon.vercel.app](https://algorithmic-dungeon.vercel.app)
+- 🚀 **GitHub Pages Deployment**: [https://24f2004729.github.io/algorithmic-dungeon/](https://24f2004729.github.io/algorithmic-dungeon/)
+- 💻 **GitHub Repository**: [https://github.com/24f2004729/algorithmic-dungeon](https://github.com/24f2004729/algorithmic-dungeon)
 
 ---
 
